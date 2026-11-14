@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a B.E. Artificial Intelligence & Machine Learning student focused on building practical, real-world technology solutions. I've developed projects including a Career Management System, Smart IoT solution for visually impaired people, Smart Library Management System, and Railway Reservation System. I work with Python, Java, C, JavaScript, FastAPI, SQL, and IoT technologies, with interests in AI/ML, automation, full-stack development, and intelligent systems. I enjoy turning ideas into functional solutions while continuously improving my problem-solving and engineering skills.<br>
+I'm a B.E. Artificial Intelligence & Machine Learning student focused on building practical, real-world technology solutions. I've developed projects including a Career Management System, StreakForce app to maintain streaks in various platforms, Smart Library Management System, and Railway Reservation System. I work with Python, Java, C, JavaScript, FastAPI, SQL, and IoT technologies, with interests in AI/ML, automation, full-stack development, and intelligent systems. I enjoy turning ideas into functional solutions while continuously improving my problem-solving and engineering skills.
 
 
 ## 🌐 Socials:
@@ -8,7 +8,7 @@ I'm a B.E. Artificial Intelligence & Machine Learning student focused on buildin
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=harinitheme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=harini&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=harini&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=harini&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
